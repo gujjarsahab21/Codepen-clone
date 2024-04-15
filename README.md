@@ -1,9 +1,11 @@
-For running this project in your local system
+# React + Vite
 
-Download the zipped folder and unzip this.
+* For running this project in your local system
 
-Drag and drop in the vs code or any other IDE.
+* Download the zipped folder and unzip this.
 
-Open terminal type 'npm i'.
+* Drag and drop in the vs code or any other IDE.
 
-Then for running in browser type npm run dev. 
+* Open terminal type 'npm i'.
+
+* Then for running in browser type npm run dev. 
